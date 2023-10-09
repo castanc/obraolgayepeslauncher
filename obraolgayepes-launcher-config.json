@@ -1,0 +1,10 @@
+{
+  "Title": "obraolgayepes-launcher",
+  "MainHtml": "obraolgayepes-launcher.html",
+  "StartUpFolder": "G:\\Projects\\obraolgayepes-launcher\\src",
+  "SingleJS": false,
+  "TSOutFolder": "G:\\Projects\\obraolgayepes-launcher\\dist",
+  "DistFolder": "G:\\Projects\\obraolgayepes-launcher\\dist",
+  "Framework": "G:\\projects\\framework",
+  "ExcludePPTOS": true
+}
